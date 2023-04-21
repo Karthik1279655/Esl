@@ -1,0 +1,44 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.10, pytest-7.2.1, pluggy-1.0.0 -- /home/ee212783/PycharmProjects/ESL_Summary/venv/bin/python
+cachedir: .pytest_cache
+metadata: {'Python': '3.8.10', 'Platform': 'Linux-5.15.0-60-generic-x86_64-with-glibc2.29', 'Packages': {'pytest': '7.2.1', 'pluggy': '1.0.0'}, 'Plugins': {'json-report': '1.5.0', 'xdist': '3.2.0', 'html': '3.2.0', 'metadata': '2.0.4', 'json': '0.4.0'}}
+rootdir: /home/ee212783/PycharmProjects/ESL_Summary/Tests
+plugins: json-report-1.5.0, xdist-3.2.0, html-3.2.0, metadata-2.0.4, json-0.4.0
+collecting ... collected 34 items
+
+test_sample.py::Test::test_Summary PASSED
+test_sample.py::Test::test_summary_check PASSED
+test_sample.py::Test::test_select_TCB_Stage_Wise_Summary PASSED
+test_sample.py::Test::test_mandatory PASSED
+test_sample.py::Test::test_ESL_01 PASSED
+test_sample.py::Test::test_ESL_02 PASSED
+test_sample.py::Test::test_ESL_03 PASSED
+test_sample.py::Test::test_ESL_04 PASSED
+test_sample.py::Test::test_ESL_05 PASSED
+test_sample.py::Test::test_ESL_06 PASSED
+test_sample.py::Test::test_ESL_07 PASSED
+test_sample.py::Test::test_ESL_08 PASSED
+test_sample.py::Test::test_ESL_09 PASSED
+test_sample.py::Test::test_ESL_10 PASSED
+test_sample.py::Test::test_ESL_11 PASSED
+test_sample.py::Test::test_ESL_12 PASSED
+test_sample.py::Test::test_ESL_13 PASSED
+test_sample.py::Test::test_ESL_14 PASSED
+test_sample.py::Test::test_ESL_15 PASSED
+test_sample.py::Test::test_ESL_16 PASSED
+test_sample.py::Test::test_ESL_17 PASSED
+test_sample.py::Test::test_ESL_18 PASSED
+test_sample.py::Test::test_ESL_19 PASSED
+test_sample.py::Test::test_ESL_20 PASSED
+test_sample.py::Test::test_ESL_21 PASSED
+test_sample.py::Test::test_ESL_22 PASSED
+test_sample.py::Test::test_ESL_23 PASSED
+test_sample.py::Test::test_ESL_24 PASSED
+test_sample.py::Test::test_ESL_25 PASSED
+test_sample.py::Test::test_ESL_26 PASSED
+test_sample.py::Test::test_ESL_27 PASSED
+test_sample.py::Test::test_ESL_28 PASSED
+test_sample.py::Test::test_ESL_29 PASSED
+test_sample.py::Test::test_ESL_30 PASSED
+
+============================= 34 passed in 14.13s ==============================
